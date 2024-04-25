@@ -1,16 +1,51 @@
-# eneumtassi
+Este trabalho representa o front de um aplicativo de “loja de artigos para animais de estimação”, cujo mockup foi escolhido em uma coleção de fontes gratuitas, no site da Unblast.
 
-A new Flutter project.
 
-## Getting Started
+Este app possui as seguintes funcionalidades a serem desenvolvidas:
+Tela introdutória:
 
-This project is a starting point for a Flutter application.
+Login;
 
-A few resources to get you started if this is your first Flutter project:
+Novo cadastro;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Esqueci a minha senha;
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Tela de novo cadastro:
+
+Cadastrar novo usuário;
+
+Adicionar foto de perfil;
+
+Remover foto de perfil;
+
+
+
+Tela inicial:
+
+Listar catálogo de produtos por tipo de animal de estimação;
+
+Adicionar produtos ao carrinho;
+
+Acessar o perfil;
+
+
+
+Tela do carrinho de compra:
+
+Remover materiais do carrinho;
+
+Selecionar método de pagamento;
+
+Finalizar compra;
+
+
+
+Tela do perfil:
+
+Visualizar e editar dados cadastrais;
+
+Histórico de compras realizadas;
+
+Adicionar métodos de pagamento; 
